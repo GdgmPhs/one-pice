@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:GdgmPhs/one-pice.git"
+    "url": "git+https://github.com/GdgmPhs/one-pice.git"
   },
   "author": "AShuo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GdgmPhs/one-pice/issues"
   },
-  "homepage": "git@github.com:GdgmPhs/one-pice.git#readme",
+  "homepage": "https://github.com/GdgmPhs/one-pice.git#readme",
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",
     "prettier": "^2.7.1",
