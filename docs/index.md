@@ -6,7 +6,7 @@
 
 ### 语言和工具:
 
-<table style="table-layout: auto; border-collapse: collapse;">
+<!-- <table style="table-layout: auto; border-collapse: collapse;">
   <tr>
     <td><span><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&color=333333"/></span></td>
     <td><span><img alt="CSS3" src="https://img.shields.io/badge/CSS3-E34F26?style=social&logo=css3&color=333333"/></span></td>
@@ -27,4 +27,4 @@
 
 ### 博客:
 
-- [个人博客](https://GdgmPhs.github.io/one-pice/)
+- [个人博客](https://GdgmPhs.github.io/one-pice/) -->
